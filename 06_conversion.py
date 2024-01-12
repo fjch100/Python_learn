@@ -1,0 +1,6 @@
+resultado = input("Ingresa tu edad: ")
+print(resultado)
+numero = int(resultado)
+print(2 + numero)
+float("19.2")
+str(23)
